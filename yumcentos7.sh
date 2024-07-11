@@ -97,4 +97,4 @@ EOF
 yum clean all
 yum makecache
 
-echo "YUM源已成功更换（包括CentOS Vault和阿里云源）
+echo "YUM源已成功更换（包括CentOS Vault和阿里云源）"
